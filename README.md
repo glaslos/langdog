@@ -5,6 +5,7 @@ Trainable Python programming language detection module based on Bayesian probabi
 ## Getting started
 
 Some sample code on how to use langdog.
+
     import langdog
 
     lang_classifier = langdog.LangClassifier()
